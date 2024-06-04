@@ -1,7 +1,3 @@
-# Flask + ReactJS Recipes
-This is a series of videos in which I talk about full stack web application development using Python Flask and the ReactJS library.
-
-
 ## About the project
 This project is a recipe app that allows simple CRUD actions against a Flask REST API.
 
