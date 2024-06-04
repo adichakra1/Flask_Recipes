@@ -20,7 +20,7 @@ This project is a recipe app that allows simple CRUD actions against a Flask RES
 
 # To run this project
 1. Clone the Git repository
-2. In the root folder, create a virtual environment using your favorite method.
+2. In the root folder, create a virtual environment using your preferred method.
 3. Install project dependencies with  
 ``
 pip install -r requirements.txt
